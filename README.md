@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:B993D6,100:8CA6DB&text=%20ParkIsComing%20%20&height=200&fontSize=80%&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:B993D6,100:8CA6DB&text=%20ParkIsComing%20%20&height=150&fontSize=80%&fontColor=FFFFFF)
 
 # 🐬Tech Stack
 <div align=center> 
