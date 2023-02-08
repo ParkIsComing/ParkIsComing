@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:B993D6,100:8CA6DB&text=%20ParkIsComing%20%20&height=150&fontSize=80%&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:B9AEDC,100:8CA6DB&text=%20ParkIsComing%20%20&height=250&fontSize=80%&fontColor=FFFFD0)
 
 # 🐬Tech Stack
-<div align=center> 
+
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
@@ -20,5 +20,7 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
-
+  
+# Blog
+<a href="https://velog.io/@goinggoing" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 
