@@ -11,7 +11,7 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
 <br>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Docker-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Docker-DC382D?style=for-the-badge&logo=Docker&logoColor=white">
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 <br>
