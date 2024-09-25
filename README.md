@@ -1,13 +1,11 @@
 ## PROJECTS
-- **Let’s JUPJUP** (Web App)
-  — **2nd Prize**, 2023년도 2차 SW공모전, Nov. 2023, hosted by **NIPA (정보통신산업진흥원)**.
-- **KUDDY** (Web App)
-  — **2nd Prize**, 2023 관광데이터 활용 공모전, Nov. 2023, hosted by **Korea Tourism Organization (한국관광공사)**.
-- **MIDUBANG** (Web App)
-  — **2nd Prize**, 2022 Ewha Engineering Capstone Design Contest, Dec. 2022, hosted by **Ewha Womans University**.
-- **MIDUBANG** (Web App)
-  — **3rd Prize**, 2022 제4회 소프트웨어 창업 경진대회, Nov. 2022, hosted by **Ewha Womans University**.
 
+| Project    | Award                | Date                  | Host                                       |
+|------------|----------------------|-----------------------|--------------------------------------------|
+| Let’s JUPJUP (Web App) | 2nd Prize, 2023년도 2차 SW공모전 | Nov. 2023            | NIPA (정보통신산업진흥원)                |
+| KUDDY (Web App)       | 2nd Prize, 2023 관광데이터 활용 공모전 | Nov. 2023            | Korea Tourism Organization (한국관광공사) |
+| MIDUBANG (Web App)    | 2nd Prize, 2022 Ewha Engineering Capstone Design Contest | Dec. 2022            | Ewha Womans University                    |
+| MIDUBANG (Web App)    | 3rd Prize, 2022 제4회 소프트웨어 창업 경진대회 | Nov. 2022            | Ewha Womans University                    |
 
 ## CERTIFICATES
 
