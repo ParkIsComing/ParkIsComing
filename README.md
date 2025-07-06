@@ -18,23 +18,14 @@
 
 
 ## WORK EXPERIENCE
+- **AWS Korea Solutions Architect** (Jul. 2024 - Sep. 2024)  
+  - Associate Solutions Architect
+- **AWS Korea Intern** (Jul. 2024 - Sep. 2024)  
+  - Solutions Architect Intern in the Data & AI Team
 - **NAVER Cloud Intern** (Apr. 2024 - Jun. 2024)  
   - HyperCLOVA X Intern  
   - Data construction, design, and evaluation for improving dialogue quality of HyperCLOVA X service.
 
-- **AWS Korea Intern** (Jul. 2024 - Sep. 2024)  
-  - Solutions Architect Intern in the **Data & AI Team**
-
-## TECH SKILLS
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<br>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-<br>
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 
   
 
