@@ -18,7 +18,7 @@
 
 
 ## WORK EXPERIENCE
-- **AWS Korea Solutions Architect** (Jul. 2024 - Sep. 2024)  
+- **AWS Korea Solutions Architect** (Feb. 2025 - Now)  
   - Associate Solutions Architect
 - **AWS Korea Intern** (Jul. 2024 - Sep. 2024)  
   - Solutions Architect Intern in the Data & AI Team
